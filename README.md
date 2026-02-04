@@ -1,14 +1,3 @@
-
----
-theme: jekyll-theme-minimal
----
-
-
-
-
-
-
-
 # [Ton Prénom] [Ton Nom]
 ### Étudiant en Économie & Data Analytics | Paris
 
